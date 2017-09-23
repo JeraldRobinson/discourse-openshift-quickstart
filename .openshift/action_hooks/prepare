@@ -15,19 +15,19 @@ db_prepared_statements = false
 backup_hostname =
 
 # address of smtp server used to send emails
-smtp_address = 
+smtp_address = smtp.sendgrid.net
 
 # port of smtp server used to send emails
-smtp_port = 
+smtp_port = 587
 
 # domain passed to smtp server
 smtp_domain =
 
 # username for smtp server
-smtp_user_name =
+smtp_user_name = MalcolmWashington
 
 # password for smtp server
-smtp_password =
+smtp_password = coconut1
 
 # smtp authentication mechanism
 smtp_authentication = plain
