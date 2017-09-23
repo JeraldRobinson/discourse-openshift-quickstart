@@ -27,7 +27,7 @@ smtp_domain =
 smtp_user_name = MalcolmWashington
 
 # password for smtp server
-smtp_password = coconut1
+smtp_password =
 
 # smtp authentication mechanism
 smtp_authentication = plain
